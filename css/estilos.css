@@ -1,0 +1,63 @@
+body
+{
+background: black;    
+text-align: center;
+color: blue;
+font-family: fantasy;
+padding: 0;
+margin: 0 auto; 
+width: 80%;
+}
+
+#cabecera
+{
+    background: #37488b;
+    box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
+    color: white;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.8em 0 0.5em 2em;
+}
+
+#cabecera #logo
+{
+     width: 140px;
+     vertical-align: middle;
+}
+
+#cabecera #tagline
+{
+    padding: 0 0 0 1em;
+    font-weight: normal;
+    font-size: 0.8em;
+}
+
+#container
+{
+width: 100%;
+padding: 0;
+text-align: left;
+border: 1px solid rgb(39, 2, 2);
+margin: 0 auto; 
+}
+
+#post
+{
+    width: 80%;
+    padding: 0;
+
+    
+}
+
+#container h1
+{
+
+    font-size: 40px;
+}
+ 
+#footer
+{
+    background: #777;
+    color: white;
+    text-align: center;
+}
